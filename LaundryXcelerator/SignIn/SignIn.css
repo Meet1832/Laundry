@@ -1,0 +1,251 @@
+.iphone-14-pro-1-child {
+  position: absolute;
+  top: 394px;
+  left: 64px;
+  border-radius: var(--br-mini);
+  width: 267px;
+  height: 52px;
+}
+.user-id {
+  position: absolute;
+  top: 409px;
+  left: 81px;
+  display: inline-block;
+  width: 86px;
+  height: 37px;
+  z-index: 6;
+}
+
+
+.iphone-14-pro-1-item {
+  position: absolute;
+  top: 464px;
+  left: 64px;
+  border-radius: var(--br-mini);
+  width: 267px;
+  height: 52px;
+  
+}
+.qr-icon {
+  position: absolute;
+  top: 478px;
+  left: 299px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.passwords {
+  position: absolute;
+  top: 479px;
+  left: 81px;
+  display: inline-block;
+  width: 117px;
+  height: 32px;
+  z-index: 5;
+}
+.a1-1-icon,
+.as-2-icon,
+.bs-1-icon,
+.ts-1-icon {
+  position: absolute;
+  top: 643px;
+  left: 0;
+  width: 225.28px;
+  height: 209px;
+  object-fit: cover;
+}
+.a1-1-icon,
+.bs-1-icon,
+.ts-1-icon {
+  top: 695px;
+  left: 236px;
+  width: 157px;
+  height: 157px;
+}
+.a1-1-icon,
+.ts-1-icon {
+  top: 0;
+  left: 0;
+  width: 393px;
+  height: 336.95px;
+}
+.a1-1-icon {
+  left: 205.01px;
+  width: 187.99px;
+  height: 202.92px;
+}
+.laundry {
+  position: inherit;
+  margin: 0;
+}
+.laundry,
+.xce {
+  position: fixed;
+  letter-spacing: 0.05em;
+}
+
+
+.welcome-back {
+  position: absolute;
+  top: 46.15px;
+  left: 26.5px;
+  font-size: 40px;
+  display: inline-block;
+  width: 291px;
+  height: 128.79px;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.36);
+  transform: rotate(-0.42deg);
+  transform-origin: 0 0;
+  mix-blend-mode: normal;
+}
+.iphone-14-pro-1-inner {
+  position: absolute;
+  top: 597px;
+  left: 139px;
+  border-radius: 10px;
+  background-color: #e27601;
+  width: 116px;
+  height: 46px;
+  transform-origin: 0 0;
+  text-align: center;
+  z-index: 5;
+  padding: auto;
+}
+text.iphone-14-pro-1-inner{
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  vertical-align: middle;
+}
+.page-5-photoroom-1 {
+  position: absolute;
+  top: 408px;
+  left: 291px;
+  width: 31.76px;
+  height: 24px;
+  object-fit: cover;
+}
+.sign-in {
+  position: absolute;
+  top: 613px;
+  left: 167px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 63px;
+  height: 30px;
+}
+.iphone-14-pro-1,
+.iphone-14-pro-2 {
+
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%) ;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  width: 393px;
+  height: 852px;
+ 
+  
+}
+
+
+
+.iphone-14-pro-1-parent {
+  position: relative;
+  background-color: #615757;
+  width: 100%;
+  height: 1064px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-lexend-deca);
+}
+
+.overlay{
+  position:absolute;
+  top: 58.2%;
+  left: 58.8%;
+  transform: translate(-50%,-50%) ;
+  z-index: 4;
+  overflow: hidden;
+}
+img.overlay{
+  scale: 119%;
+  
+}
+
+.iphone-14-pro-1{
+  top: 50%;
+  left: 50%;
+}
+input[type="number"].user-id{
+  font-style: none;
+  z-index: 6;
+  height: 20px;
+  color: yellow;
+  
+}
+.idinput,textarea{
+  font-style: none;
+  font-size: medium;
+  z-index: 6;
+  height: 20px;
+  background-color: #FFDE79;
+  color: black;
+  border: none;
+}
+.passinput,textarea{
+  font-style: none;
+  font-size: medium;
+  z-index: 6;
+  height: 20px;
+  background-color: #FFDE79;
+  color: black;
+  border: none;
+}
+
+.iphone-14-pro-1-inner:hover{
+  background-color: rgb(72, 72, 72);
+
+}
+
+.iphone-14-pro-1-inner{
+  position: absolute;
+  display: inline-block;
+  padding: 10px 15px;
+  padding-top: 12px;
+  font-size: 16px;
+  border: none;
+  background: #E27601;
+  color: #fff;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+  width:max-content;
+  height: fit-content;
+  margin-left: 20px;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+a:visited{
+  text-decoration: none;
+  color: #fff;
+}
+.iphone-14-pro-1-inner{
+  text-decoration: none;
+  color: var(--color-white);
+  width: 63px;
+  height: 30px;
+  color: #fff;
+}
+
+@media screen and (max-width:844px){
+  img.overlay{
+    opacity: 0;
+  }
+}
+  

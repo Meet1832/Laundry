@@ -1,0 +1,140 @@
+.a-2-icon,
+.a1-2-icon,
+.as-3-icon,
+.bs-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 393px;
+  height: 368.38px;
+  object-fit: cover;
+}
+.a1-2-icon,
+.as-3-icon,
+.bs-2-icon {
+  top: 689px;
+  height: 163px;
+}
+.a1-2-icon,
+.bs-2-icon {
+  top: 736px;
+  width: 80.81px;
+  height: 116px;
+}
+.a1-2-icon {
+  top: 0;
+  left: 205.81px;
+  width: 187.19px;
+  height: 154.03px;
+}
+.iphone-14-pro-2-child {
+  position: absolute;
+  top: 310.1px;
+  left: 78.16px;
+  border-radius: var(--br-mini);
+  width: 238px;
+  height: 238px;
+}
+.iphone-14-pro-2-item,
+.scan-here {
+  position: absolute;
+  top: 311px;
+  left: 82px;
+  width: 230px;
+  height: 230px;
+}
+.scan-here {
+  top: 514px;
+  left: 137px;
+  display: inline-block;
+  width: 120px;
+  height: 18px;
+}
+.iphone-14-pro-2-inner,
+.rectangle-icon {
+  position: absolute;
+  top: 584px;
+  left: 57px;
+  border-radius: var(--br-mini);
+  width: 140px;
+  height: 52px;
+}
+.rectangle-icon {
+  left: 204px;
+}
+.check-entry,
+.register-qr {
+  position: absolute;
+  top: 599px;
+  left: 231px;
+  display: inline-block;
+  width: 94px;
+  height: 22px;
+}
+.check-entry {
+  left: 79px;
+}
+.iphone-14-pro-2 {
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%) ;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  width: 393px;
+  height: 852px;
+}
+
+.QR_Scanner {
+  position: absolute;
+  top: 310.1px;
+  left: 78.16px;
+  border-radius: var(--br-mini);
+  width: 238px;
+  height: 238px;
+  z-index: 5;
+}
+
+.checkin{
+  position: absolute;
+  top: 584px;
+  left: 57px;
+  border-radius: var(--br-mini);
+  width: 140px;
+  height: 52px;
+  z-index: 5;
+}
+
+.registerQR{
+  position: absolute;
+  top: 584px;
+  left: 57px;
+  border-radius: var(--br-mini);
+  width: 140px;
+  height: 52px;
+  left: 204px;
+  z-index: 5;
+}
+
+.register-qr:hover{
+  background-color: rgb(91, 91, 91);
+}
+
+.overlay{
+  position:absolute;
+  top: 58.2%;
+  left: 58.8%;
+  transform: translate(-50%,-50%) ;
+  z-index: 4;
+  overflow: hidden;
+}
+img.overlay{
+  scale: 119%;
+  
+}
+@media screen and (max-width:844px){
+  img.overlay{
+    opacity: 0;
+  }
+}
+  

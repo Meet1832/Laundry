@@ -1,0 +1,196 @@
+.page-7-photoroom-1 {
+  position: absolute;
+  top: 0;
+  left: 60.68px;
+  width: 332.32px;
+  height: 237.54px;
+  object-fit: cover;
+}
+.as-4-icon,
+.o6-1-icon,
+.o6-3-icon,
+.page-6-removebg-preview-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 151.32px;
+  height: 165.68px;
+  object-fit: cover;
+}
+.as-4-icon,
+.o6-1-icon,
+.o6-3-icon {
+  top: 65px;
+  width: 167.94px;
+  height: 220.62px;
+}
+.as-4-icon,
+.o6-3-icon {
+  top: 683px;
+  width: 166.81px;
+  height: 170px;
+}
+.o6-3-icon {
+  top: 738.94px;
+  left: 257.83px;
+  width: 135.17px;
+  height: 114.06px;
+}
+.iphone-14-pro-4-child,
+.iphone-14-pro-4-item {
+  position: absolute;
+  border-radius: var(--br-mini);
+}
+.iphone-14-pro-4-child {
+  top: 271px;
+  left: 49px;
+  background-color: #ffebaf;
+  border: 1px solid rgba(255, 222, 121, 0.6);
+  box-sizing: border-box;
+  width: 295px;
+  height: 440px;
+}
+.iphone-14-pro-4-item {
+  top: 637px;
+  left: 81px;
+  background-color: var(--color-snow);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 111px;
+  height: 52px;
+}
+.home,
+.register-qr {
+  position: absolute;
+  text-decoration: none;
+  top: 651px;
+  left: 116px;
+  display: inline-block;
+  width: 52px;
+  height: 25px;
+  z-index: 5;
+}
+.register-qr {
+  top: 286px;
+  left: 137px;
+  font-size: 20px;
+  font-weight: 500;
+  width: 128px;
+  height: 28px;
+}
+.iphone-14-pro-4-inner,
+.rectangle-div {
+  position: absolute;
+  top: 337px;
+  left: 81px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-snow);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 232px;
+  height: 52px;
+  z-index: 5;
+}
+.rectangle-div {
+  top: 412px;
+}
+.enter-enrollment-no {
+  position: absolute;
+  top: 426px;
+  left: 123px;
+  display: inline-block;
+  width: 180px;
+  height: 25px;
+}
+.iphone-14-pro-4-child1 {
+  position: absolute;
+  top: 487px;
+  left: 81px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-snow);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 232px;
+  height: 52px;
+  z-index: 5;
+}
+.enter-room-number {
+  position: absolute;
+  top: 501px;
+  left: 123px;
+  display: inline-block;
+  width: 180px;
+  height: 25px;
+}
+.iphone-14-pro-4-child2 {
+  position: absolute;
+  top: 562px;
+  left: 81px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-snow);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 232px;
+  height: 52px;
+  z-index: 5;
+}
+.enter-hostel-name {
+  position: absolute;
+  top: 576px;
+  left: 124px;
+  display: inline-block;
+  width: 180px;
+  height: 25px;
+}
+.iphone-14-pro-4-child3 {
+  position: absolute;
+  top: 637px;
+  left: 202px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-snow);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 118px;
+  height: 52px;
+  z-index: 5;
+}
+.create,
+.enter-student-name {
+  position: absolute;
+  top: 650px;
+  left: 235px;
+  display: inline-block;
+  width: 52px;
+  height: 25px;
+}
+.enter-student-name {
+  top: 351px;
+  left: 123px;
+  width: 180px;
+}
+.iphone-14-pro-4 {
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%) ;
+  border-radius: 40px;
+  background-color: #fff;
+  width: 393px;
+  height: 852px;
+
+
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-lexend-deca);
+}
+
+.overlay{
+  position:absolute;
+  top: 58.2%;
+  left: 58.8%;
+  transform: translate(-50%,-50%) ;
+  z-index: 4;
+  overflow: hidden;
+}
+img.overlay{
+  scale: 119%;
+  
+}
+
+

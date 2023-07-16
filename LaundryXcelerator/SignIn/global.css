@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lexend-deca: "Lexend Deca";
+
+  /* font sizes */
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-21xl: 40px;
+  --br-mini: 15px;
+}
